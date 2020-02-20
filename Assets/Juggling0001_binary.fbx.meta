@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: f4ce5a473249d4a469efa19c00dba4e1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '#1 Miqus M3'
+    100002: '#10 Miqus M3'
+    100004: '#11 Miqus M3'
+    100006: '#12 Miqus M3'
+    100008: '#13 Miqus M3'
+    100010: '#14 Miqus M3'
+    100012: '#15 Miqus M3'
+    100014: '#16 Miqus M3'
+    100016: '#17 Miqus M3'
+    100018: '#18 Oqus 700+'
+    100020: '#19 Oqus 700+'
+    100022: '#2 Miqus M3'
+    100024: '#20 Oqus 700+'
+    100026: '#21 Oqus 700+'
+    100028: '#22 Miqus M3'
+    100030: '#23 Miqus M3'
+    100032: '#24 Miqus M3'
+    100034: '#25 Miqus M3'
+    100036: '#26 Miqus M3'
+    100038: '#27 Oqus 700+'
+    100040: '#28 Oqus 700+'
+    100042: '#29 Miqus Video'
+    100044: '#3 Miqus M3'
+    100046: '#30 Miqus Video'
+    100048: '#31 Miqus Video'
+    100050: '#4 Miqus M3'
+    100052: '#5 Oqus 700+'
+    100054: '#6 Oqus 700+'
+    100056: '#7 Oqus 700+'
+    100058: '#8 Oqus 700+'
+    100060: '#9 Miqus M3'
+    100062: Cameras
+    100064: JSM:Head
+    100066: JSM:Hips
+    100068: JSM:LeftArm
+    100070: JSM:LeftFoot
+    100072: JSM:LeftForeArm
+    100074: JSM:LeftHand
+    100076: JSM:LeftLeg
+    100078: JSM:LeftShoulder
+    100080: JSM:LeftToeBase
+    100082: JSM:LeftUpLeg
+    100084: JSM:Neck
+    100086: JSM:Reference
+    100088: JSM:RightArm
+    100090: JSM:RightFoot
+    100092: JSM:RightForeArm
+    100094: JSM:RightHand
+    100096: JSM:RightLeg
+    100098: JSM:RightShoulder
+    100100: JSM:RightToeBase
+    100102: JSM:RightUpLeg
+    100104: JSM:Spine
+    100106: JSM:Spine1
+    100108: JSM:Spine2
+    100110: JSM_BackL
+    100112: JSM_BackR
+    100114: JSM_Chest
+    100116: JSM_HeadFront
+    100118: JSM_HeadL
+    100120: JSM_HeadR
+    100122: JSM_HeadTop
+    100124: JSM_LAnkleOut
+    100126: JSM_LArm
+    100128: JSM_LElbowOut
+    100130: JSM_LForefootIn
+    100132: JSM_LForefootOut
+    100134: JSM_LHandOut
+    100136: JSM_LHeelBack
+    100138: JSM_LKneeOut
+    100140: JSM_LShin
+    100142: JSM_LShoulderBack
+    100144: JSM_LShoulderTop
+    100146: JSM_LThigh
+    100148: JSM_LToeTip
+    100150: JSM_LWristIn
+    100152: JSM_LWristOut
+    100154: JSM_RAnkleOut
+    100156: JSM_RArm
+    100158: JSM_RElbowOut
+    100160: JSM_RForefootIn
+    100162: JSM_RForefootOut
+    100164: JSM_RHandOut
+    100166: JSM_RHeelBack
+    100168: JSM_RKneeOut
+    100170: JSM_RShin
+    100172: JSM_RShoulderBack
+    100174: JSM_RShoulderTop
+    100176: JSM_RThigh
+    100178: JSM_RToeTip
+    100180: JSM_RWristIn
+    100182: JSM_RWristOut
+    100184: JSM_SpineTop
+    100186: JSM_WaistLBack
+    100188: JSM_WaistLFront
+    100190: JSM_WaistRBack
+    100192: JSM_WaistRFront
+    100194: //RootNode
+    100196: New 0000
+    100198: New 0001
+    100200: New 0002
+    100202: New 0003
+    100204: Opticals
+    100206: Skeletons
+    400000: '#1 Miqus M3'
+    400002: '#10 Miqus M3'
+    400004: '#11 Miqus M3'
+    400006: '#12 Miqus M3'
+    400008: '#13 Miqus M3'
+    400010: '#14 Miqus M3'
+    400012: '#15 Miqus M3'
+    400014: '#16 Miqus M3'
+    400016: '#17 Miqus M3'
+    400018: '#18 Oqus 700+'
+    400020: '#19 Oqus 700+'
+    400022: '#2 Miqus M3'
+    400024: '#20 Oqus 700+'
+    400026: '#21 Oqus 700+'
+    400028: '#22 Miqus M3'
+    400030: '#23 Miqus M3'
+    400032: '#24 Miqus M3'
+    400034: '#25 Miqus M3'
+    400036: '#26 Miqus M3'
+    400038: '#27 Oqus 700+'
+    400040: '#28 Oqus 700+'
+    400042: '#29 Miqus Video'
+    400044: '#3 Miqus M3'
+    400046: '#30 Miqus Video'
+    400048: '#31 Miqus Video'
+    400050: '#4 Miqus M3'
+    400052: '#5 Oqus 700+'
+    400054: '#6 Oqus 700+'
+    400056: '#7 Oqus 700+'
+    400058: '#8 Oqus 700+'
+    400060: '#9 Miqus M3'
+    400062: Cameras
+    400064: JSM:Head
+    400066: JSM:Hips
+    400068: JSM:LeftArm
+    400070: JSM:LeftFoot
+    400072: JSM:LeftForeArm
+    400074: JSM:LeftHand
+    400076: JSM:LeftLeg
+    400078: JSM:LeftShoulder
+    400080: JSM:LeftToeBase
+    400082: JSM:LeftUpLeg
+    400084: JSM:Neck
+    400086: JSM:Reference
+    400088: JSM:RightArm
+    400090: JSM:RightFoot
+    400092: JSM:RightForeArm
+    400094: JSM:RightHand
+    400096: JSM:RightLeg
+    400098: JSM:RightShoulder
+    400100: JSM:RightToeBase
+    400102: JSM:RightUpLeg
+    400104: JSM:Spine
+    400106: JSM:Spine1
+    400108: JSM:Spine2
+    400110: JSM_BackL
+    400112: JSM_BackR
+    400114: JSM_Chest
+    400116: JSM_HeadFront
+    400118: JSM_HeadL
+    400120: JSM_HeadR
+    400122: JSM_HeadTop
+    400124: JSM_LAnkleOut
+    400126: JSM_LArm
+    400128: JSM_LElbowOut
+    400130: JSM_LForefootIn
+    400132: JSM_LForefootOut
+    400134: JSM_LHandOut
+    400136: JSM_LHeelBack
+    400138: JSM_LKneeOut
+    400140: JSM_LShin
+    400142: JSM_LShoulderBack
+    400144: JSM_LShoulderTop
+    400146: JSM_LThigh
+    400148: JSM_LToeTip
+    400150: JSM_LWristIn
+    400152: JSM_LWristOut
+    400154: JSM_RAnkleOut
+    400156: JSM_RArm
+    400158: JSM_RElbowOut
+    400160: JSM_RForefootIn
+    400162: JSM_RForefootOut
+    400164: JSM_RHandOut
+    400166: JSM_RHeelBack
+    400168: JSM_RKneeOut
+    400170: JSM_RShin
+    400172: JSM_RShoulderBack
+    400174: JSM_RShoulderTop
+    400176: JSM_RThigh
+    400178: JSM_RToeTip
+    400180: JSM_RWristIn
+    400182: JSM_RWristOut
+    400184: JSM_SpineTop
+    400186: JSM_WaistLBack
+    400188: JSM_WaistLFront
+    400190: JSM_WaistRBack
+    400192: JSM_WaistRFront
+    400194: //RootNode
+    400196: New 0000
+    400198: New 0001
+    400200: New 0002
+    400202: New 0003
+    400204: Opticals
+    400206: Skeletons
+    2000000: '#1 Miqus M3'
+    2000002: '#10 Miqus M3'
+    2000004: '#11 Miqus M3'
+    2000006: '#12 Miqus M3'
+    2000008: '#13 Miqus M3'
+    2000010: '#14 Miqus M3'
+    2000012: '#15 Miqus M3'
+    2000014: '#16 Miqus M3'
+    2000016: '#17 Miqus M3'
+    2000018: '#18 Oqus 700+'
+    2000020: '#19 Oqus 700+'
+    2000022: '#2 Miqus M3'
+    2000024: '#20 Oqus 700+'
+    2000026: '#21 Oqus 700+'
+    2000028: '#22 Miqus M3'
+    2000030: '#23 Miqus M3'
+    2000032: '#24 Miqus M3'
+    2000034: '#25 Miqus M3'
+    2000036: '#26 Miqus M3'
+    2000038: '#27 Oqus 700+'
+    2000040: '#28 Oqus 700+'
+    2000042: '#29 Miqus Video'
+    2000044: '#3 Miqus M3'
+    2000046: '#30 Miqus Video'
+    2000048: '#31 Miqus Video'
+    2000050: '#4 Miqus M3'
+    2000052: '#5 Oqus 700+'
+    2000054: '#6 Oqus 700+'
+    2000056: '#7 Oqus 700+'
+    2000058: '#8 Oqus 700+'
+    2000060: '#9 Miqus M3'
+    7400000: Juggling0001_binary
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
